@@ -1,0 +1,14 @@
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\bin\Debug\net8.0-windows\SnakeGame.exe
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\bin\Debug\net8.0-windows\SnakeGame.deps.json
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\bin\Debug\net8.0-windows\SnakeGame.runtimeconfig.json
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\bin\Debug\net8.0-windows\SnakeGame.dll
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\bin\Debug\net8.0-windows\SnakeGame.pdb
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.AssemblyInfo.cs
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.dll
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\obj\Debug\net8.0-windows\refint\SnakeGame.dll
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.pdb
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\obj\Debug\net8.0-windows\SnakeGame.genruntimeconfig.cache
+C:\Users\usmsy\OneDrive\Documents\New project\SnakeGame\obj\Debug\net8.0-windows\ref\SnakeGame.dll
